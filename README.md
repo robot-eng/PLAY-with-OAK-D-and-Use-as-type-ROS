@@ -24,6 +24,12 @@
 <img src="img/depthai.png" width="450" height="200">
 </p>
 
+### depthai-gui
+###### credit : https://github.com/luxonis/depthai-gui
+<p align="center">
+<img src="img/GUI.gif" width="450" height="200">
+</p>
+
 ## ROS
 https://github.com/luxonis/depthai-ros
 
