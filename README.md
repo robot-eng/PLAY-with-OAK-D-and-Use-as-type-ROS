@@ -19,5 +19,5 @@
 ### depthai : demo
 ###### credit : https://github.com/luxonis/depthai.git
 <p align="center">
-<img src="img/3d.gif" width="450" height="350">
+<img src="img/depthai.png" width="450" height="350">
 </p>
