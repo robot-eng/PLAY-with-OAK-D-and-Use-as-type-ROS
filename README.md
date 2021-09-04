@@ -1,7 +1,7 @@
 # OAK-D
 ##### BUY : https://store.opencv.ai/products/oak-d
 ##### credit : https://docs.luxonis.com/en/latest/
-###### depthai_hand_tracker
+###### depthai_hand_tracker : example
 <p align="center">
 <img src="img/3d.gif" width="320" height="280">
 </p>
