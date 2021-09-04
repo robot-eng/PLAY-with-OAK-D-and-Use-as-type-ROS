@@ -13,11 +13,11 @@
 ### depthai_blazepose : example
 ###### credit : https://github.com/geaxgx/depthai_blazepose
 <p align="center">
-<img src="img/taichi.gif" width="450" height="180">
+<img src="img/taichi.gif" width="450" height="200">
 </p>
 
 ### depthai : demo
 ###### credit : https://github.com/luxonis/depthai.git
 <p align="center">
-<img src="img/depthai.png" width="450" height="350">
+<img src="img/depthai.png" width="450" height="200">
 </p>
