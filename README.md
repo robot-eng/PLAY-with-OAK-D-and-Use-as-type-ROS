@@ -5,3 +5,4 @@
 <p align="center">
 <img src="img/3d.gif" width="320" height="280">
 </p>
+credit : https://github.com/geaxgx/depthai_hand_tracker/tree/main/examples/3d_visualization
