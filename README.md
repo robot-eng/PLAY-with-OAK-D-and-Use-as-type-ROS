@@ -13,3 +13,9 @@
 <p align="center">
 <img src="img/taichi.gif" width="450" height="180">
 </p>
+
+### depthai : demo
+###### credit : https://github.com/luxonis/depthai.git
+<p align="center">
+<img src="img/3d.gif" width="450" height="350">
+</p>
