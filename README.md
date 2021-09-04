@@ -26,3 +26,9 @@
 
 ## ROS
 https://github.com/luxonis/depthai-ros
+
+***important***
+```
+sudo wget -qO- https://raw.githubusercontent.com/luxonis/depthai-ros/noetic-devel/install_dependencies.sh | sudo bash
+```
+make it install in opencv3+ or opencv4+
