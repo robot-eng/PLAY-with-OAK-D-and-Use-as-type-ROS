@@ -4,12 +4,12 @@
 ### depthai_hand_tracker : example
 ###### credit : https://github.com/geaxgx/depthai_hand_tracker
 <p align="center">
-<img src="img/3d.gif" width="320" height="280">
+<img src="img/3d.gif" width="450" height="350">
 </p>
 
-###### credit : https://github.com/geaxgx/depthai_hand_tracker/tree/main/examples/3d_visualization
+###### credit(gif) : https://github.com/geaxgx/depthai_hand_tracker/tree/main/examples/3d_visualization
 ### depthai_blazepose : example
 ###### credit : https://github.com/geaxgx/depthai_blazepose
 <p align="center">
-<img src="img/taichi.gif" width="320" height="280">
+<img src="img/taichi.gif" width="450" height="180">
 </p>
