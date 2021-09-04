@@ -11,5 +11,5 @@
 ### depthai_blazepose : example
 ###### credit : https://github.com/geaxgx/depthai_blazepose
 <p align="center">
-<img src="img/3d.gif" width="320" height="280">
+<img src="img/taichi.gif" width="320" height="280">
 </p>
