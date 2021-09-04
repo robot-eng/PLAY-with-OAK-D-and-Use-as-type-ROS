@@ -3,5 +3,5 @@
 ##### credit : https://docs.luxonis.com/en/latest/
 ###### depthai_hand_tracker
 <p align="center">
-<img src="img/3D.gif" width="320" height="280">
+<img src="img/3d.gif" width="320" height="280">
 </p>
