@@ -71,6 +71,5 @@ darknet_ros/darknet_ros/launch/darknet_ros.launch
  cam_image = cv_bridge::toCvCopy(imageAction, sensor_msgs::image_encodings::RGB8);
  ```
  <p align="center">
-<img src="img/112599.jpg" >
-<img src="img/112600.jpg" >
+<img src="img/112599.jpg"  width="380" height="300">   <img src="img/112600.jpg" width="380" height="300">
 </p>
